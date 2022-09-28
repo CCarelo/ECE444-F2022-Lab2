@@ -9,4 +9,4 @@ Activity 1
 
 Activity 2
 
-![image](https://user-images.githubusercontent.com/48865140/192845810-86d714cd-4f64-4e33-8aed-058cfe568f20.png)
+![image](https://user-images.githubusercontent.com/48865140/192845955-858542ad-5e62-485d-99cd-820d28a00c32.png)
